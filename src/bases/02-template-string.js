@@ -17,4 +17,5 @@ function getSaludo(name) {
     return 'Hola mundo ' + name;
 }
 
-console.log(`Este es un texto: ${ getSaludo(nombre)}`)
+console.log(`Este es un texto: ${ getSaludo(nombre)
+}`)
